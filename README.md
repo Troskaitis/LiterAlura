@@ -23,4 +23,5 @@ Challenge 2 - Desenvolvido para Formação Java do Programa ONE.
 - Listar livros em determinado idioma
 - Top 10 livros mais baixados
 
+![badge literalura](https://github.com/Troskaitis/LiterAlura/assets/153742787/a5fd2e3c-048b-45f6-b872-639bc22e96c7)
 
